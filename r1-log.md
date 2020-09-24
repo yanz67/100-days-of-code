@@ -13,3 +13,6 @@ Continued with Pentersters academy course and created python3 version of multipl
 tutorial in python documentation
 Added [Pentesters Academy Github Repository](https://github.com/yanz67/python-pentesters)  
 
+### R1D3
+Continuing with Pentesters academy course and working on Module 3 part 2
+Created simple TCP client to connect to the TCP echo server
