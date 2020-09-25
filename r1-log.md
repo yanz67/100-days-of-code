@@ -16,3 +16,5 @@ Added [Pentesters Academy Github Repository](https://github.com/yanz67/python-pe
 ### R1D3
 Continuing with Pentesters academy course and working on Module 3 part 2
 Created simple TCP client to connect to the TCP echo server
+###R1D4
+Created TCP server single / multithreaded server using serversocket class
