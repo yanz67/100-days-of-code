@@ -20,3 +20,5 @@ Created simple TCP client to connect to the TCP echo server
 Created TCP server single / multi threaded server using `serversocket` class
 ###R1D5
 Created webserver as well as web server that execute cgi scripts
+###R1D6
+Fixed the issue with CGI script and started raw socket and packet processing chapter
